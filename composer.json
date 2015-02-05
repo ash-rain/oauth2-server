@@ -1,5 +1,5 @@
 {
-    "name": "dingo/oauth2-server",
+    "name": "ash-rain/oauth2-server",
     "description": "PHP OAuth 2.0 implementation.",
     "license": "BSD-3-Clause",
     "keywords": ["oauth2", "dingo"],
