@@ -9,7 +9,7 @@ A PHP OAuth 2.0 server implementation.
 The package can be installed with Composer, either by modifying your `composer.json` directly or using the `composer require` command.
 
 ```
-composer require dingo/oauth2-server:0.1.*
+composer require ash-rain/oauth2-server
 ```
 
 > Note that this package is still under development and has not been tagged as stable.
